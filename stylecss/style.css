@@ -15,7 +15,7 @@ h2{
   text-align: center;
   font-size: 200%;
   font-weight: bold;
-  margin-top: 2%
+  margin-top: 2%;
 }
 h3{
   text-align: center;
@@ -56,11 +56,11 @@ input[type=text],input[type=tel],input[type=email],input[type=date]{
 fieldset{
   width: 100%;}
 input[type=text],input[type=tel],input[type=email],input[type=date]{
-  width: 100;}
+  width: 100%;}
 h3{
   font-size: 4vw;}
 h2{
-  ont-size: 5vw;
+  font-size: 5vw;
   margin-top: 5%;}
 img{
   width: 50%;
