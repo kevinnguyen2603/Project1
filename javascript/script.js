@@ -1,5 +1,4 @@
 
 function myFunction() {
-    alert("You have SUBCRIBED!!!");
-
+    getContent("You have SUBCRIBED!!!");
     }
